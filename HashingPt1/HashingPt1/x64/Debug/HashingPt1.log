@@ -1,0 +1,40 @@
+﻿  hashinpt1.cpp
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\hashinpt1.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(129,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(125): message : while compiling class template member function 'void HashTable<int>::rehash(void)'
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(52): message : see reference to function template instantiation 'void HashTable<int>::rehash(void)' being compiled
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\hashinpt1.cpp(15): message : see reference to class template instantiation 'HashTable<int>' being compiled
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(118,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(106): message : while compiling class template member function 'int HashTable<int>::findPos(const HashedObj &) const'
+          with
+          [
+              HashedObj=int
+          ]
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(30): message : see reference to function template instantiation 'int HashTable<int>::findPos(const HashedObj &) const' being compiled
+          with
+          [
+              HashedObj=int
+          ]
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(98,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(86): message : while compiling class template member function 'int HashTable<int>::findPos(const HashedObj &,int &) const'
+          with
+          [
+              HashedObj=int
+          ]
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(44): message : see reference to function template instantiation 'int HashTable<int>::findPos(const HashedObj &,int &) const' being compiled
+          with
+          [
+              HashedObj=int
+          ]
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(145,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(140): message : while compiling class template member function 'int HashTable<int>::myhash(const HashedObj &) const'
+          with
+          [
+              HashedObj=int
+          ]
+C:\Users\101066736\source\repos\csc315\HashingPt1\HashingPt1\QuadraticProbing.h(108): message : see reference to function template instantiation 'int HashTable<int>::myhash(const HashedObj &) const' being compiled
+          with
+          [
+              HashedObj=int
+          ]
+  HashingPt1.vcxproj -> C:\Users\101066736\source\repos\csc315\HashingPt1\x64\Debug\HashingPt1.exe

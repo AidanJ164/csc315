@@ -1,0 +1,10 @@
+﻿  Merge.cpp
+C:\Users\101066736\source\repos\csc315\MergeSort\MergeSort\Merge.cpp(15,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\MergeSort\MergeSort\Merge.cpp(21,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\MergeSort\MergeSort\Merge.cpp(10,12): warning C4101: 'temp': unreferenced local variable
+C:\Users\101066736\source\repos\csc315\MergeSort\MergeSort\Merge.cpp(45,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\MergeSort\MergeSort\Merge.cpp(54,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\MergeSort\MergeSort\Merge.cpp(56,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\MergeSort\MergeSort\Merge.cpp(56,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\MergeSort\MergeSort\Merge.cpp(71,23): warning C4018: '>=': signed/unsigned mismatch
+  MergeSort.vcxproj -> C:\Users\101066736\source\repos\csc315\MergeSort\Debug\MergeSort.exe

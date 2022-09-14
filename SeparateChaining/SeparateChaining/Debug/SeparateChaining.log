@@ -1,0 +1,5 @@
+﻿  SeparateChaining.cpp
+C:\Users\101066736\source\repos\csc315\SeparateChaining\SeparateChaining\SeparateChaining.h(51,27): warning C4018: '>': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\SeparateChaining\SeparateChaining\SeparateChaining.h(65,27): warning C4018: '>': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\SeparateChaining\SeparateChaining\SeparateChaining.h(87,23): warning C4018: '<': signed/unsigned mismatch
+  SeparateChaining.vcxproj -> C:\Users\101066736\source\repos\csc315\SeparateChaining\Debug\SeparateChaining.exe

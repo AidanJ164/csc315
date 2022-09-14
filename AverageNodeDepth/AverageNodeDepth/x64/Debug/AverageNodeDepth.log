@@ -1,0 +1,7 @@
+﻿  AverageNodeDepth.cpp
+C:\Users\101066736\source\repos\csc315\AverageNodeDepth\AverageNodeDepth\AverageNodeDepth.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\101066736\source\repos\csc315\AverageNodeDepth\AverageNodeDepth\BinarySearchTree.h(161,13): warning C4101: 'avg': unreferenced local variable
+C:\Users\101066736\source\repos\csc315\AverageNodeDepth\AverageNodeDepth\BinarySearchTree.h(159): message : while compiling class template member function 'double BinarySearchTree<int>::avgHeight(double)'
+C:\Users\101066736\source\repos\csc315\AverageNodeDepth\AverageNodeDepth\AverageNodeDepth.cpp(27): message : see reference to function template instantiation 'double BinarySearchTree<int>::avgHeight(double)' being compiled
+C:\Users\101066736\source\repos\csc315\AverageNodeDepth\AverageNodeDepth\AverageNodeDepth.cpp(11): message : see reference to class template instantiation 'BinarySearchTree<int>' being compiled
+  AverageNodeDepth.vcxproj -> C:\Users\101066736\source\repos\csc315\AverageNodeDepth\x64\Debug\AverageNodeDepth.exe

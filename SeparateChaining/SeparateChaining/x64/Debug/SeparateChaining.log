@@ -1,0 +1,8 @@
+﻿  SeparateChaining.cpp
+C:\Users\101066736\source\repos\csc315\SeparateChaining\SeparateChaining\SeparateChaining.h(107,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101066736\source\repos\csc315\SeparateChaining\SeparateChaining\LinearProbing.h(79,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101066736\source\repos\csc315\SeparateChaining\SeparateChaining\QuadraticProbing.h(110,1): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101066736\source\repos\csc315\SeparateChaining\SeparateChaining\QuadraticProbing.h(121,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101066736\source\repos\csc315\SeparateChaining\SeparateChaining\QuadraticProbing.h(137,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101066736\source\repos\csc315\SeparateChaining\SeparateChaining\DoubleHashing.h(111,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SeparateChaining.vcxproj -> C:\Users\101066736\source\repos\csc315\SeparateChaining\x64\Debug\SeparateChaining.exe

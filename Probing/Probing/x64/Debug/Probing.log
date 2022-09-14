@@ -1,0 +1,3 @@
+﻿  hw5.cpp
+C:\Users\101066736\source\repos\csc315\Probing\Probing\hw5.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Probing.vcxproj -> C:\Users\101066736\source\repos\csc315\Probing\x64\Debug\Probing.exe

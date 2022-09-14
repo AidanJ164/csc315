@@ -1,0 +1,8 @@
+﻿  Sort.cpp
+C:\Users\101066736\source\repos\csc315\Sorting\Sorting\Sort.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\Sorting\Sorting\Sort.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\Sorting\Sorting\Sort.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\Sorting\Sorting\Sort.cpp(31,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\Sorting\Sorting\Sort.cpp(51,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\Sorting\Sorting\Sort.cpp(60,27): warning C4018: '<': signed/unsigned mismatch
+  Sorting.vcxproj -> C:\Users\101066736\source\repos\csc315\Sorting\Debug\Sorting.exe

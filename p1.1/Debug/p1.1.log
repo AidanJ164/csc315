@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\101066736\source\repos\csc315\p1.1\main.cpp(13,9): warning C4101: 'i': unreferenced local variable
+C:\Users\101066736\source\repos\csc315\p1.1\main.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\p1.1\main.cpp(54,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\p1.1\main.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\101066736\source\repos\csc315\p1.1\main.cpp(81,24): warning C4018: '<': signed/unsigned mismatch
+  p1.1.vcxproj -> C:\Users\101066736\source\repos\csc315\p1.1\Debug\p1.1.exe
